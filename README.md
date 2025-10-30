@@ -193,7 +193,7 @@ GitHub: @YuG1106
 
 Contributions:
   
-  Project Architecture
+   Project Architecture
   
   Database Design
   
@@ -214,5 +214,6 @@ For any queries or suggestions, feel free to reach out:
 ## 📜 License
 
 This project is open-source and available for educational purposes.
+
 
 
