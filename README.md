@@ -69,7 +69,7 @@ Follow these steps to set up and run the project locally:
 
 ### 1️⃣ Clone this repository
 ```bash
-git clone https://github.com/<your-username>/ECommerceProductCatalog.git
+git clone https://github.com/YuG1106/ECommerceProductCatalog.git
 cd ECommerceProductCatalog
 ````
 
@@ -206,8 +206,3 @@ Contributions:
 ## 📜 License
 
 This project is open-source and available for educational purposes.
-
-
-
-
-
