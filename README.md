@@ -201,8 +201,11 @@ Contributions:
   
   Documentation
 
+
 Contact
+
 For any queries or suggestions, feel free to reach out:
+
 
 📧 Email: bhagatyug90@gmail.com
 
@@ -211,4 +214,5 @@ For any queries or suggestions, feel free to reach out:
 ## 📜 License
 
 This project is open-source and available for educational purposes.
+
 
