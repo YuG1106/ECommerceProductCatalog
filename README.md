@@ -116,9 +116,6 @@ Update-Database
    * 🗑 Delete products
    * 🔍 Search by name or category
 
-Uploaded images are stored in `wwwroot/images`.
-
----
 
 ## 🗃️ Default Connection String
 
@@ -131,6 +128,17 @@ The default database connection string (in `appsettings.json`) is:
 ```
 
 If you’re using another SQL Server, replace the `Server` and `Database` values as needed.
+
+---
+
+---
+🖼️ UI Screenshots
+
+Homepage
+<img width="1366" height="768" alt="Screenshot 2025-10-30 185955" src="https://github.com/user-attachments/assets/ff273eaf-15a3-4376-8cae-14329528107d" />
+
+
+
 
 ---
 
@@ -182,6 +190,7 @@ Contributions:
 ## 📜 License
 
 This project is open-source and available for educational purposes.
+
 
 
 
