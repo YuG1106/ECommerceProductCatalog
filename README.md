@@ -162,8 +162,11 @@ Through this project, you’ll learn:
 ## 👨‍💻 Author
 
 Developed by: Yug Bhagat
+
 Enrollment No: 202403103520099
+
 GitHub: @YuG1106
+
 Contributions:
   Project Architecture
   Database Design
@@ -175,3 +178,4 @@ Contributions:
 ## 📜 License
 
 This project is open-source and available for educational purposes.
+
