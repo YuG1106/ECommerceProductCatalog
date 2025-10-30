@@ -130,15 +130,31 @@ The default database connection string (in `appsettings.json`) is:
 If you’re using another SQL Server, replace the `Server` and `Database` values as needed.
 
 ---
-
----
 🖼️ UI Screenshots
 
 Homepage
 <img width="1366" height="768" alt="Screenshot 2025-10-30 185955" src="https://github.com/user-attachments/assets/ff273eaf-15a3-4376-8cae-14329528107d" />
 
+Create Product
+<img width="1366" height="768" alt="Create" src="https://github.com/user-attachments/assets/507011e4-ef4d-47f4-a925-d03654c43bf0" />
 
+Produts Added
+<img width="1366" height="768" alt="Screenshot 2025-10-30 190238" src="https://github.com/user-attachments/assets/60e3bbef-de3d-4efc-bcfd-884866ecd6cb" />
 
+Edit Product
+<img width="1366" height="768" alt="Edit Product" src="https://github.com/user-attachments/assets/6295c0e9-a171-444b-a162-f7e64c150eb4" />
+
+Edit Successfully
+<img width="1366" height="768" alt="Screenshot 2025-10-30 190434" src="https://github.com/user-attachments/assets/473b703c-c112-46b6-9b9f-4c9bcf2f68a2" />
+
+Search Product
+<img width="1366" height="768" alt="Search" src="https://github.com/user-attachments/assets/f4dd607f-fb23-4c92-b690-7b4f8a9c5b9d" />
+
+Delete Product
+<img width="1366" height="768" alt="delete" src="https://github.com/user-attachments/assets/db4d432b-bf08-4623-928c-9d40bd059038" />
+
+Deleted Successfully
+<img width="1366" height="768" alt="Screenshot 2025-10-30 190526" src="https://github.com/user-attachments/assets/a912f9e5-c713-44a9-b30f-2caead6b6ee6" />
 
 ---
 
@@ -190,6 +206,7 @@ Contributions:
 ## 📜 License
 
 This project is open-source and available for educational purposes.
+
 
 
 
