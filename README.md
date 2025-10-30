@@ -155,7 +155,7 @@ Through this project, you’ll learn:
 * How to use **Entity Framework Core (Code-First)**.
 * How to perform **CRUD operations** in ASP.NET Core.
 * How to handle image uploads.
-* How to use **Bootstrap** for styling web pages.
+
 
 ---
 
@@ -168,9 +168,13 @@ Enrollment No: 202403103520099
 GitHub: @YuG1106
 
 Contributions:
+  
   Project Architecture
+  
   Database Design
+  
   Core Functionality
+  
   Documentation
 
 ---
@@ -178,4 +182,5 @@ Contributions:
 ## 📜 License
 
 This project is open-source and available for educational purposes.
+
 
